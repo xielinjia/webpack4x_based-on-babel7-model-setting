@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    color: white;
+}
+#tupian{
+    background-image: url(../images/turtle.jpg);
+    width: 259px;
+    height: 460px;
+    transform: rotate(45deg);
+    box-shadow: 1px 1px 0 rgba(0,0,0,.25);
+}
+#haihai{
+    color: blue;
+    width: 100px;
+}
