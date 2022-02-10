@@ -25,7 +25,7 @@
     "jquery": "^3.5.0",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss": "^7.0.27",
     "postcss-loader": "^3.0.0",
     "purify-css": "^1.2.5",
